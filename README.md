@@ -1,3 +1,6 @@
+#Live Blog-App, click the link 
+(https://652971c68a05ed155d64f809--grand-dieffenbachia-3965e4.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
